@@ -1,2 +1,2 @@
 # myos
-OS
+OS 개발
